@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+<!-- # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
@@ -27,4 +27,18 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+
+
+
+100 Days of Code Log
+
+** Day 1 : 22 May 2020 **
+
+Progress: worked on JS calculator project, FCC JS exercises, edabit 
+
+Thoughts: still stuck on calculator project under TOP (The Odin Project). I was able to calculate the first two values but still can't figure out how to do it when it is chained equation. In between, as a break from Calc project, I continued learning from FCC (Freecodecamp) and also did an edabit challenge on loops. 
+
+links: https://github.com/liampc/calculator
+
+
