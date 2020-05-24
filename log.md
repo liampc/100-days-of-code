@@ -47,3 +47,11 @@ links: https://github.com/liampc/calculator
 Progress: worked on my calculator project, did a couple of JS exercises in FCC and did a coding challenge about arrays and keys, learned about Object.entries() method.
 
 Thoughts: still kind of stuck working on Calcular project. fixed some bugs but encountered new ones. I still cant make up a proper system. I still need to improve my thinking and planning process. Tomorrow I'll try to focus more on the step by step process rathen than just keep doing trial and error. 
+
+
+** Day 3 : 24 May 2020 **
+
+Progress: worked on CSS on secret santa project
+
+Thoughts: I do not master CSS but more or less I know the things that I can do, but sometimes I have to google how to do it again, which I think is normal. For javascript, and the whole project basically I need to focus more on planning instead of diving into the project head first. I'll also start reading the Pragramatic Programmer.
+
