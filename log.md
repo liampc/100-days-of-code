@@ -55,3 +55,5 @@ Progress: worked on CSS on secret santa project
 
 Thoughts: I do not master CSS but more or less I know the things that I can do, but sometimes I have to google how to do it again, which I think is normal. For javascript, and the whole project basically I need to focus more on planning instead of diving into the project head first. I'll also start reading the Pragramatic Programmer.
 
+link: https://github.com/liampc/randomProjects/tree/master/secret-Santa
+
