@@ -57,3 +57,10 @@ Thoughts: I do not master CSS but more or less I know the things that I can do, 
 
 link: https://github.com/liampc/randomProjects/tree/master/secret-Santa
 
+** Day 4 : 25 May 2020 **
+
+Progress: worked on JS on calculator project, JS basics at FCC. Submit my first pull request on The Odin Project.
+
+Thoughts : I am still stuck on calc project, even though I was able to update some lines, looking at the big picture it does not fit. I am getting frustrated so I decided to look for the explanation online. Later or tomorrow I will read it and go throught it step by step. I feel like the whole planning process is what I should improve upon.  Don't know why I didn't do it earlier with my previous projects, when it serves as a practice for contributing to open source projects. 
+
+links: https://github.com/liampc/calculator
