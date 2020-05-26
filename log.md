@@ -64,3 +64,11 @@ Progress: worked on JS on calculator project, JS basics at FCC. Submit my first 
 Thoughts : I am still stuck on calc project, even though I was able to update some lines, looking at the big picture it does not fit. I am getting frustrated so I decided to look for the explanation online. Later or tomorrow I will read it and go throught it step by step. I feel like the whole planning process is what I should improve upon.  Don't know why I didn't do it earlier with my previous projects, when it serves as a practice for contributing to open source projects. 
 
 links: https://github.com/liampc/calculator
+
+
+** Day 5 : 26 May 2020 **
+
+Progress: Watch CS50, read about event delegation and calculator project guide, little bit of FCC, 
+
+Thoughts : watched CS50 and since I've been stuck on doing the Calculator project, I decided to finally read a step by step guide on how to do it. Today i learned the concept of event delegation, this is a pattern that can be used instead of creating event handlers for all the buttons for calc.
+
