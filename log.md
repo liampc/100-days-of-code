@@ -72,3 +72,11 @@ Progress: Watch CS50, read about event delegation and calculator project guide, 
 
 Thoughts : watched CS50 and since I've been stuck on doing the Calculator project, I decided to finally read a step by step guide on how to do it. Today i learned the concept of event delegation, this is a pattern that can be used instead of creating event handlers for all the buttons for calc.
 
+
+** Day 6 : 27 May 2020 **
+
+Progress: made a big progress on calculator project, continue watching lesson on CS50, did a couple of JS exercises on FCC, read tutorials The odin project.
+
+Thoughts: I was able to succeed in doing 4 pomos in 25 mins in the morning. I progressed a lot on the calculator project because I followed the event delegation pattern, some of the constraints were already solved by me since I've been working on it for a quite a time. 
+
+
