@@ -80,3 +80,8 @@ Progress: made a big progress on calculator project, continue watching lesson on
 Thoughts: I was able to succeed in doing 4 pomos in 25 mins in the morning. I progressed a lot on the calculator project because I followed the event delegation pattern, some of the constraints were already solved by me since I've been working on it for a quite a time. 
 
 
+** Day 7 : 28 May 2020 **
+
+Progress: finished main leasson CS50 lesson week 2, did a couple JS exercises in FCC
+
+Thoughts : Today was not as productive yesterday. I find that I am less productive during Thursdays, based on my pomodoro history. Maybe because it is the middle of the week. Tomorrow I'll focus harder.
