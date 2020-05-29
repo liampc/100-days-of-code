@@ -85,3 +85,9 @@ Thoughts: I was able to succeed in doing 4 pomos in 25 mins in the morning. I pr
 Progress: finished main leasson CS50 lesson week 2, did a couple JS exercises in FCC
 
 Thoughts : Today was not as productive yesterday. I find that I am less productive during Thursdays, based on my pomodoro history. Maybe because it is the middle of the week. Tomorrow I'll focus harder.
+
+** Day 8 : 29 May 2020 **
+
+Progress: update my calc project, read Odin, do edabit
+
+Thoughts : Read and watch videos about thinking like a programmer, It was really helpful. Learned how to tackle a problem, plan your program and to focus more on algorithms rather than diving immediately into coding, which is the mistake I usually do. Challenge to self: deliberate practice on writing algorithms even on short coding challenges.
