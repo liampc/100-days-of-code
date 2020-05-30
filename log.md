@@ -31,9 +31,9 @@
 
 
 
-100 Days of Code Log
+# 100 Days of Code Log
 
-** Day 1 : 22 May 2020 **
+## Day 1 : 22 May 2020 
 
 Progress: worked on JS calculator project, FCC JS exercises, edabit 
 
@@ -42,14 +42,14 @@ Thoughts: still stuck on calculator project under TOP (The Odin Project). I was 
 links: https://github.com/liampc/calculator
 
 
-** Day 2 : 23 May 2020 ** 
+## Day 2 : 23 May 2020 
 
 Progress: worked on my calculator project, did a couple of JS exercises in FCC and did a coding challenge about arrays and keys, learned about Object.entries() method.
 
 Thoughts: still kind of stuck working on Calcular project. fixed some bugs but encountered new ones. I still cant make up a proper system. I still need to improve my thinking and planning process. Tomorrow I'll try to focus more on the step by step process rathen than just keep doing trial and error. 
 
 
-** Day 3 : 24 May 2020 **
+## Day 3 : 24 May 2020 
 
 Progress: worked on CSS on secret santa project
 
@@ -57,7 +57,7 @@ Thoughts: I do not master CSS but more or less I know the things that I can do, 
 
 link: https://github.com/liampc/randomProjects/tree/master/secret-Santa
 
-** Day 4 : 25 May 2020 **
+## Day 4 : 25 May 2020 
 
 Progress: worked on JS on calculator project, JS basics at FCC. Submit my first pull request on The Odin Project.
 
@@ -66,28 +66,34 @@ Thoughts : I am still stuck on calc project, even though I was able to update so
 links: https://github.com/liampc/calculator
 
 
-** Day 5 : 26 May 2020 **
+## Day 5 : 26 May 2020 
 
 Progress: Watch CS50, read about event delegation and calculator project guide, little bit of FCC, 
 
 Thoughts : watched CS50 and since I've been stuck on doing the Calculator project, I decided to finally read a step by step guide on how to do it. Today i learned the concept of event delegation, this is a pattern that can be used instead of creating event handlers for all the buttons for calc.
 
 
-** Day 6 : 27 May 2020 **
+## Day 6 : 27 May 2020 
 
 Progress: made a big progress on calculator project, continue watching lesson on CS50, did a couple of JS exercises on FCC, read tutorials The odin project.
 
 Thoughts: I was able to succeed in doing 4 pomos in 25 mins in the morning. I progressed a lot on the calculator project because I followed the event delegation pattern, some of the constraints were already solved by me since I've been working on it for a quite a time. 
 
 
-** Day 7 : 28 May 2020 **
+## Day 7 : 28 May 2020 
 
 Progress: finished main leasson CS50 lesson week 2, did a couple JS exercises in FCC
 
 Thoughts : Today was not as productive yesterday. I find that I am less productive during Thursdays, based on my pomodoro history. Maybe because it is the middle of the week. Tomorrow I'll focus harder.
 
-** Day 8 : 29 May 2020 **
+## Day 8 : 29 May 2020 
 
 Progress: update my calc project, read Odin, do edabit
 
 Thoughts : Read and watch videos about thinking like a programmer, It was really helpful. Learned how to tackle a problem, plan your program and to focus more on algorithms rather than diving immediately into coding, which is the mistake I usually do. Challenge to self: deliberate practice on writing algorithms even on short coding challenges.
+
+## Day 9: 30 May 2020 
+
+Progress : learn more about different patterns of breaking down problem, practice writing down algorithms, do a coding challenge, did couple of exercises from FCC.
+
+Thoughts : Currently I am having a ahrd time doing the planning and breaking down of problems, I dont have any problems on syntax since I know I can always google it, so I am deliberately practicing writing down algorithms. 
