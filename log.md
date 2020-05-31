@@ -97,3 +97,10 @@ Thoughts : Read and watch videos about thinking like a programmer, It was really
 Progress : learn more about different patterns of breaking down problem, practice writing down algorithms, do a coding challenge, did couple of exercises from FCC.
 
 Thoughts : Currently I am having a ahrd time doing the planning and breaking down of problems, I dont have any problems on syntax since I know I can always google it, so I am deliberately practicing writing down algorithms. 
+
+## Day 10: 31 May 2020
+
+Progress: deliberate practice on algorithms, review JS Basics and did a couple exercises on algorithms in Freecodecamp. 
+
+Thoughts: Not as productive as I planned to, but I try to not be so strict during Sundays. I did practice on pseudocode even on small coding challenges just to get a hang of thinking systematically. It's quite hard to not jump immediately on coding and doing trial and error, but now I am more aware of it.
+
