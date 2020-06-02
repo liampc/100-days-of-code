@@ -112,3 +112,8 @@ Thoughts: I am following the curriculum of The Odin Project and Freecodecamp and
 
 link: https://learnxinyminutes.com/docs/javascript/
 
+## Day 12 : 2 June 2020
+
+Progress: follow a JS exercise on changing CSS variables, study more about objects and constructors
+
+Thoughts: This day has been really difficuly, not because of the coding but wilth all the things happending around the world and in my country. 
