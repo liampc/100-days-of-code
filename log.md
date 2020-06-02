@@ -104,3 +104,11 @@ Progress: deliberate practice on algorithms, review JS Basics and did a couple e
 
 Thoughts: Not as productive as I planned to, but I try to not be so strict during Sundays. I did practice on pseudocode even on small coding challenges just to get a hang of thinking systematically. It's quite hard to not jump immediately on coding and doing trial and error, but now I am more aware of it.
 
+## Day 11: 1 June 2020
+
+Progress: do Exercism challenges, review JS, review objects and object constructors. 
+
+Thoughts: I am following the curriculum of The Odin Project and Freecodecamp and I really enjoyed reviewing JS and test my knowledge. I did install and do exercisms challenges and I like doing coding problems locally.
+
+link: https://learnxinyminutes.com/docs/javascript/
+
