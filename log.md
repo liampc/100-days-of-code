@@ -124,3 +124,9 @@ Progress: learn more about object and object prototype.
 
 Thoughts : Although I am still not completely confident, I now understand more about how when you use methods, its actually accessing the saved methods from objects's prototype. I can't still fully grasp the whole process but I will be starting a new Project called Library for the next day.
 
+## Day 14 : 4 June 2020
+
+Progress: start new project under the Odin Project called Library
+
+Thoughts :  I  was able to the html and CSS for today, and write the plan on how to do it. I want to make it a habit to always write down a pseudocode for the projects I will do.
+
