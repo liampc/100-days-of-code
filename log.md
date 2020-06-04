@@ -117,3 +117,10 @@ link: https://learnxinyminutes.com/docs/javascript/
 Progress: follow a JS exercise on changing CSS variables, study more about objects and constructors
 
 Thoughts: This day has been really difficuly, not because of the coding but wilth all the things happending around the world and in my country. 
+
+## Day 13 : 3 June 2020
+
+Progress: learn more about object and object prototype. 
+
+Thoughts : Although I am still not completely confident, I now understand more about how when you use methods, its actually accessing the saved methods from objects's prototype. I can't still fully grasp the whole process but I will be starting a new Project called Library for the next day.
+
