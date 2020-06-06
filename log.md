@@ -103,3 +103,9 @@ Thoughts :  I  was able to the html and CSS for today, and write the plan on how
 Progress: work on Library project, Do ES6 exercises in FCC
 
 Thoughts : Still working on Library project, need to review DOM manipulation. So far I was able to add divs but still cant add book title per div. I try not to dwell too long or get stuck on a project that's why in between I do exercises in FCC. Today I reviewed about var,let,const, and arrow function.
+
+## Day 16 : 6 June 2020 
+
+Progress : DO ES6 exercises in FCC, do coding challenge in edabit
+
+Thoughts : Today has been a very bad day because of personal stuff, I was only able to do atleast 1 of studying/coding before the day ends. I reviwed spread operator, and default parameters. learned about destructuring assigned values on objects. Hopefully tomorrow I could get back on schedule.
