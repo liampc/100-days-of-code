@@ -115,3 +115,9 @@ Thoughts : Today has been a very bad day because of personal stuff, I was only a
 Progress: read book  and watch videos about objects oriented programming
 
 Thougths: Today is sunday, I normally don't do anything related to programming during sundays but since I commited to the challenge I just read a book and watch videos about object oriented programming. Tomorrow will be more productive for sure.
+
+## Day 18 : 8 June 2020
+
+Progress: do Exercises in FCC about object oriented programming
+
+Thoughts : Still quite confused about creating / handling objects. Decided to do the Object oriented exercises in FCC.  So far, I understood the concepts but having difficulties applying it in a project. 
