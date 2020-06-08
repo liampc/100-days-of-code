@@ -109,3 +109,9 @@ Thoughts : Still working on Library project, need to review DOM manipulation. So
 Progress : DO ES6 exercises in FCC, do coding challenge in edabit
 
 Thoughts : Today has been a very bad day because of personal stuff, I was only able to do atleast 1 of studying/coding before the day ends. I reviwed spread operator, and default parameters. learned about destructuring assigned values on objects. Hopefully tomorrow I could get back on schedule.
+
+## Day 17 : 7 June 2020 
+
+Progress: read book  and watch videos about objects oriented programming
+
+Thougths: Today is sunday, I normally don't do anything related to programming during sundays but since I commited to the challenge I just read a book and watch videos about object oriented programming. Tomorrow will be more productive for sure.
