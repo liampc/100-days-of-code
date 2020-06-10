@@ -121,3 +121,16 @@ Thougths: Today is sunday, I normally don't do anything related to programming d
 Progress: do Exercises in FCC about object oriented programming
 
 Thoughts : Still quite confused about creating / handling objects. Decided to do the Object oriented exercises in FCC.  So far, I understood the concepts but having difficulties applying it in a project. 
+
+## Day 19 : 9 June 2020
+
+Progress: finished Exercises in FCC about object oriented programming, do a coding challenge in edabit, try to do a coding challenge in exercism, watch a cs50 lesson
+
+Thoughts : The challenges in FCC were very helpful in teaching the details about objects and prototypes. I was able to practice and play around with it in the console.
+
+
+## Day 20 : 10 June 2020
+
+Progress: work on my Library project, review DOM.
+
+Thoughts: Today I was able to add features on my Library project. I revied DOM manipulation that's why I was able to work on my project. Today, I added a loop function that will display the saved books on an array. Also realize that I am more comfortable in using git in tracking my progress. So today is a sucess.
