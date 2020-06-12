@@ -134,3 +134,10 @@ Thoughts : The challenges in FCC were very helpful in teaching the details about
 Progress: work on my Library project, review DOM.
 
 Thoughts: Today I was able to add features on my Library project. I revied DOM manipulation that's why I was able to work on my project. Today, I added a loop function that will display the saved books on an array. Also realize that I am more comfortable in using git in tracking my progress. So today is a sucess.
+
+## Day 21 : 11 June 2020 
+
+Progress: continue watch cs50 week 3 on different types of sort, start functional programming in FCC
+
+Thoughts : not so productive day, cant focus and not motivated to do library project. still dont know how to plan or organize using OOP.
+
