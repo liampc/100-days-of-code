@@ -141,3 +141,8 @@ Progress: continue watch cs50 week 3 on different types of sort, start functiona
 
 Thoughts : not so productive day, cant focus and not motivated to do library project. still dont know how to plan or organize using OOP.
 
+## Day 22 : 12 June 2020 
+
+Progress: do librray project, add input forms, save and show the saved book, edit CSS, add set attributes function, 
+
+Thoughts: made a lot of progress today in Library, althought I'm not sure if I am doing it correctly, I applied OOP. Not completely sure when to use it or just create a separated function. Also I was able to use git productively and more comfortable today,  encountered new type of problem in git and learned how to delete and untrack a file across branches. 
