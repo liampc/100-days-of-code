@@ -154,3 +154,8 @@ Progress: continue library project, make a function that remove all children nod
 Thoughts : had a problem with git, almost lost my progess. Encountered detached head issue and diverged branch but was not able to do the right process, I dont know how I end up just copying my code from branch to my master and upload to github. Now I realized how important pushing code to github instead of just saving and committing changes locally. 
 
 
+## Day 24: 14 June 2020
+
+Progress: freecodecamp basic algorithm scripting
+
+Thoughts: It is Sunday, I barely touched my laptop but I was able to do some exercises on freecodecamp. 
