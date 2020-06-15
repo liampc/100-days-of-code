@@ -146,3 +146,11 @@ Thoughts : not so productive day, cant focus and not motivated to do library pro
 Progress: do librray project, add input forms, save and show the saved book, edit CSS, add set attributes function, do debugging section in FCC, watch video about objects 
 
 Thoughts: made a lot of progress today in Library, althought I'm not sure if I am doing it correctly, I applied OOP. Not completely sure when to use it or just create a separated function. Also I was able to use git productively and more comfortable today,  encountered new type of problem in git and learned how to delete and untrack a file across branches. 
+
+## Day 23 : 13 June 2020
+
+Progress: continue library project, make a function that remove all children nodes, save and display data from input forms, had a problem with git
+
+Thoughts : had a problem with git, almost lost my progess. Encountered detached head issue and diverged branch but was not able to do the right process, I dont know how I end up just copying my code from branch to my master and upload to github. Now I realized how important pushing code to github instead of just saving and committing changes locally. 
+
+
