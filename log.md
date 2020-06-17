@@ -167,3 +167,10 @@ Progress: still working on my library project
 Thoughts: Today, I got really excited because I was able add another working feauture but then realized that I made a mistake on the earlier functions, creating a ripple effect on the following functions. Still having trouble with git when it comes to undoing mistakes so I need to review and practice it. It  I dont really feel frustrated, to be honest it is quite enjoyable and little bit reassuring that I really enjoy doing this, despite making little progress everyday and having a lot of setbacks. 
 
 
+
+## Day 26: 16 June 2020
+
+Progress: clean code in Library project, learn git commands on fixing mistakes and undoing commits 
+
+Thoughts: Today, I was able to make my code more readable and cleaner in a new branch but I end up not yet fixing the main issue when it comes to showing the saved books on the library. Still floundering on git but now I am more familliar on what to do when I made a mistake. Also drabbled in working with nodes and nodelist and its difference with array.
+
