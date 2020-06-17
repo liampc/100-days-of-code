@@ -159,3 +159,11 @@ Thoughts : had a problem with git, almost lost my progess. Encountered detached 
 Progress: freecodecamp basic algorithm scripting
 
 Thoughts: It is Sunday, I barely touched my laptop but I was able to do some exercises on freecodecamp. 
+
+## Day 25 : 15 June 2020
+
+Progress: still working on my library project
+
+Thoughts: Today, I got really excited because I was able add another working feauture but then realized that I made a mistake on the earlier functions, creating a ripple effect on the following functions. Still having trouble with git when it comes to undoing mistakes so I need to review and practice it. It  I dont really feel frustrated, to be honest it is quite enjoyable and little bit reassuring that I really enjoy doing this, despite making little progress everyday and having a lot of setbacks. 
+
+
