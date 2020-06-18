@@ -174,3 +174,10 @@ Progress: clean code in Library project, learn git commands on fixing mistakes a
 
 Thoughts: Today, I was able to make my code more readable and cleaner in a new branch but I end up not yet fixing the main issue when it comes to showing the saved books on the library. Still floundering on git but now I am more familliar on what to do when I made a mistake. Also drabbled in working with nodes and nodelist and its difference with array.
 
+ ## Day 27 : 17 June 2020
+
+ Progess: still working on library project, practice git revision
+
+ Thoughts: still cant fix the main issue but I end up making other functions cleaner. I am getting more familliar with git and github, so now I'm not that nervous to experiment thinking that I could always go back and revise
+
+
