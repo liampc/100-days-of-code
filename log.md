@@ -181,3 +181,8 @@ Thoughts: Today, I was able to make my code more readable and cleaner in a new b
  Thoughts: still cant fix the main issue but I end up making other functions cleaner. I am getting more familliar with git and github, so now I'm not that nervous to experiment thinking that I could always go back and revise
 
 
+ ## Day 28 : 18 June 2020
+
+ Progress: library project use of event delegation on remove card function
+
+ Thoughts : Not feeling well today, It difficult to focus when you are physically unwell. I tried to fix the main issue of my library project but I only end up fixing the remove card function using a cleaner code thru event delegation. 
