@@ -186,3 +186,15 @@ Thoughts: Today, I was able to make my code more readable and cleaner in a new b
  Progress: library project use of event delegation on remove card function
 
  Thoughts : Not feeling well today, It difficult to focus when you are physically unwell. I tried to fix the main issue of my library project but I only end up fixing the remove card function using a cleaner code thru event delegation. 
+
+## Day 29 : 19 June 2020
+
+Progress: Just watched a tutorial from FCC
+
+Thoughts: got sick having difficulties focusing on working on any project
+
+## Day 30: 21 June 2020
+
+Progress: just made a simple counter in codepen
+
+Thoughts: skipped for the first time yesterday, I got terribly sick that I just slept for almost the whole day. Today is Sunday, I want to do somthing simple so I just made a simple increase decrease counter in codepen just to use simple js solution. I thought it was too simple for me but while making it I actually made little mistakes and insisted on copying what I remember from thhe FCC tutorial instead of trusting my knowlege even though it was right 
