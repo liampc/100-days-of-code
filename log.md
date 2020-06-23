@@ -198,3 +198,12 @@ Thoughts: got sick having difficulties focusing on working on any project
 Progress: just made a simple counter in codepen
 
 Thoughts: skipped for the first time yesterday, I got terribly sick that I just slept for almost the whole day. Today is Sunday, I want to do somthing simple so I just made a simple increase decrease counter in codepen just to use simple js solution. I thought it was too simple for me but while making it I actually made little mistakes and insisted on copying what I remember from thhe FCC tutorial instead of trusting my knowlege even though it was right 
+
+## Day 31: 22 June 2020
+
+Progress: watch a JS30 tutorial and do my version of flex grid from scratch
+
+Thoughts: I decided to set aside my library project for now from Odin Project because I am having a hard time and tend to get stuck. I'm not really fond of just watching tutorials because I feel i'm "cheating", so I skipped it but then realized I am missing a lot of things. Now, I just decided that I will watch tutorial videos but I will do everything from scratch instead of just plugging the missing code or the code that I have to solve.
+
+
+
