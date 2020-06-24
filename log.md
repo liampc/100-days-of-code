@@ -212,3 +212,9 @@ Progress: practice CSS, read Think Like a programmer
 
 Thoughts: Not as productice today, just practice CSS. I'm not yet comfortable using loops and do practice problem from Think Like a programmer. I was able to finally do and understand more the process of breaking down problems.
 
+## Day 33: 24 June 2020
+
+Progress: make an app that searches for the country codes
+
+Thoughts: learn fetch data from a json file, practice using regex, practice using filter and map. I learned a new way to display new divs without manually adding attributes properties using the DOM. Hopefully it can be applied to my Library project. Tomorrow I'll try to apply it.
+
