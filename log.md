@@ -206,4 +206,9 @@ Progress: watch a JS30 tutorial and do my version of flex grid from scratch
 Thoughts: I decided to set aside my library project for now from Odin Project because I am having a hard time and tend to get stuck. I'm not really fond of just watching tutorials because I feel i'm "cheating", so I skipped it but then realized I am missing a lot of things. Now, I just decided that I will watch tutorial videos but I will do everything from scratch instead of just plugging the missing code or the code that I have to solve.
 
 
+## Day 32: 23 June 2020
+
+Progress: practice CSS, read Think Like a programmer
+
+Thoughts: Not as productice today, just practice CSS. I'm not yet comfortable using loops and do practice problem from Think Like a programmer. I was able to finally do and understand more the process of breaking down problems.
 
