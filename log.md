@@ -218,3 +218,9 @@ Progress: make an app that searches for the country codes
 
 Thoughts: learn fetch data from a json file, practice using regex, practice using filter and map. I learned a new way to display new divs without manually adding attributes properties using the DOM. Hopefully it can be applied to my Library project. Tomorrow I'll try to apply it.
 
+## Day 34 : 25 June 2020
+
+Progress: redesign html and css of Library project, do Basic scripting and fucntional programming exercises in FCC
+
+Thoughts: not really productive today, I wasn't really excited in fixing CSS. I think I will be able to apply the practices that I learned from the country codes project in my Library so I decided to get back to it.
+
