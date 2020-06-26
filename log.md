@@ -224,3 +224,8 @@ Progress: redesign html and css of Library project, do Basic scripting and fucnt
 
 Thoughts: not really productive today, I wasn't really excited in fixing CSS. I think I will be able to apply the practices that I learned from the country codes project in my Library so I decided to get back to it.
 
+## Day 35 : 26 June 2020 
+
+Progess: worked on library project
+
+Thoughts: Today is very satisfying, as I've thought, I was able to apply the methods from my previous project in my Library project. Today, I also realized how I'm not doing the OOP right in my first tries. I realized I'm not really pushing the data into the array correctly. I also realized how NOT to DOM, when adding list or divs into the html. With this, I was able to reduce my code to almost half of the earlier versions that I made.
