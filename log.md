@@ -229,3 +229,16 @@ Thoughts: not really productive today, I wasn't really excited in fixing CSS. I 
 Progess: worked on library project
 
 Thoughts: Today is very satisfying, as I've thought, I was able to apply the methods from my previous project in my Library project. Today, I also realized how I'm not doing the OOP right in my first tries. I realized I'm not really pushing the data into the array correctly. I also realized how NOT to DOM, when adding list or divs into the html. With this, I was able to reduce my code to almost half of the earlier versions that I made.
+
+## Day 36 : 27 June 2020
+
+Progress: finish the Library project 
+
+Thoughts : Yay! I finished my Library project on Odin Project, there are still room for improvement especially on the CSS part but I want to finish the JS and do other projects. 
+
+## Day 37: 28 June 2020
+
+Progress: read book about Code in general
+
+Thoughts: Today is Sunday, barely touched my laptop but I want to read something casual, related to programming so I read this book called Code that describes how computers came to be. 
+
