@@ -242,3 +242,10 @@ Progress: read book about Code in general
 
 Thoughts: Today is Sunday, barely touched my laptop but I want to read something casual, related to programming so I read this book called Code that describes how computers came to be. 
 
+## Day 38: 29 June 2020
+
+Progress: Read odin articles on factory functions
+
+Thoughts : Not that productive but was relieved that there are other designs or way of writing code beside from the OOP and learned about factory functions. So far I like the practice of making smaller functions and then using callbacks. Even though i'm not yet completely good at it, I want to make a more efficient code
+
+
