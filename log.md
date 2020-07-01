@@ -248,4 +248,8 @@ Progress: Read odin articles on factory functions
 
 Thoughts : Not that productive but was relieved that there are other designs or way of writing code beside from the OOP and learned about factory functions. So far I like the practice of making smaller functions and then using callbacks. Even though i'm not yet completely good at it, I want to make a more efficient code
 
+## Day 39 : 30 June 2020
 
+Progress: read Odin articles on scopes 
+
+Thoughts: learned about call(), apply(), bind() and module design functions. Also learned the technique of saving the scope of "this" into variable "that". I learned different concepts today but not yet sure how to apply it correctly.
