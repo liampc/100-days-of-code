@@ -253,3 +253,16 @@ Thoughts : Not that productive but was relieved that there are other designs or 
 Progress: read Odin articles on scopes 
 
 Thoughts: learned about call(), apply(), bind() and module design functions. Also learned the technique of saving the scope of "this" into variable "that". I learned different concepts today but not yet sure how to apply it correctly.
+
+## Day 40 :  1 July 2020
+
+Progress: add checkboxes feature on my library project. Still studying and experimenting about factory functions and private functions 
+
+## Day 41 : 2 July 2020
+
+Progress: Watch / study about Modular JS, still grasping functional programming concepts
+
+## Day 42 : 3 July 2020
+
+Progress: did exercises on FCC on functional programming 
+
