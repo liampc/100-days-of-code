@@ -266,3 +266,10 @@ Progress: Watch / study about Modular JS, still grasping functional programming 
 
 Progress: did exercises on FCC on functional programming 
 
+
+## Day 43 : 4 July 2020
+
+Progress: sitll studying and figuring out JS module
+
+Thougths: It's so satisfying to watch tutorials and learn how to make your code organized and cleaner. Excited to get better at it 
+
