@@ -283,3 +283,9 @@ Progress: Do exercises on functional programming on freecodecamp
 
 Thoughts: little bit rusty in using map(), filter() and reduce(). I am having a hard time doing exercises in FCC because it is more on "plugging" codes instead of making one for myself
 
+## Day 46 : 7 July 2020
+
+Progress: Start tictactoe project
+
+Thoughts: Today is really fun, started tictactoe project to practice factory function and module pattern. It's exciting to see my code cleaner compared to my previous projects. Hope I'm doing it correctly 
+
