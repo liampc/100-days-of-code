@@ -273,3 +273,13 @@ Progress: sitll studying and figuring out JS module
 
 Thougths: It's so satisfying to watch tutorials and learn how to make your code organized and cleaner. Excited to get better at it 
 
+## Day 44 : 5 July 2020
+
+Progress: It's Sunday, review JS in sololearn app from phone
+
+## Day 45 : 6 July 2020
+
+Progress: Do exercises on functional programming on freecodecamp
+
+Thoughts: little bit rusty in using map(), filter() and reduce(). I am having a hard time doing exercises in FCC because it is more on "plugging" codes instead of making one for myself
+
