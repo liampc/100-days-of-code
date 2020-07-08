@@ -289,3 +289,10 @@ Progress: Start tictactoe project
 
 Thoughts: Today is really fun, started tictactoe project to practice factory function and module pattern. It's exciting to see my code cleaner compared to my previous projects. Hope I'm doing it correctly 
 
+## Day 47: 8 July 2020
+
+Progress: made a lot of progress in  tictactoe project, 
+
+Thoughts: Made mistakes on project and restart but still made a lot of progress, but I'm not really sure how to work on different modules, I am going to watch more tutorial about it. Eithery way today is really fun, I was able to make a module that displays alternate markers  for different players  tictactoe, make use of data-attr and indexes. 
+
+Update! Just realized I made a mistake, I thought I was doing a modular pattern turns out it was just object literal. It's my fault for jumping straight to a  project because I got too excited. Anyways, I dont really feel worried about since I know I can convert my progress into it. 
