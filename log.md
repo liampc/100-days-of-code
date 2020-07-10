@@ -296,3 +296,16 @@ Progress: made a lot of progress in  tictactoe project,
 Thoughts: Made mistakes on project and restart but still made a lot of progress, but I'm not really sure how to work on different modules, I am going to watch more tutorial about it. Eithery way today is really fun, I was able to make a module that displays alternate markers  for different players  tictactoe, make use of data-attr and indexes. 
 
 Update! Just realized I made a mistake, I thought I was doing a modular pattern turns out it was just object literal. It's my fault for jumping straight to a  project because I got too excited. Anyways, I dont really feel worried about since I know I can convert my progress into it. 
+
+## Day 48: 9 July 2020
+
+Progress: made the tictactoe work by converting object literal to a module pattern, watch git video tutorial
+
+Thoughts: I was able to convert my work into a module pattern but I had to re-add the code function but function to see the the flow better. I had to watch git tutorials cuz I'm having difficulties in what to do or the workflow when remote repo is in place.
+
+## Day 49: 10 July 2020
+
+Progress: modify my tictactoe code and add features for basic game
+
+Thoughts: watch video about modular JS, still cant figure out how to use and apply subpub function that could make my code cleaner in terms of events handling. The fixing of the rest of the project feels harder, I feel like my code is not yet organized even though it is working. Want to improve my flow of functions.
+
