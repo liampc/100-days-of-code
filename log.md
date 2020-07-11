@@ -309,3 +309,10 @@ Progress: modify my tictactoe code and add features for basic game
 
 Thoughts: watch video about modular JS, still cant figure out how to use and apply subpub function that could make my code cleaner in terms of events handling. The fixing of the rest of the project feels harder, I feel like my code is not yet organized even though it is working. Want to improve my flow of functions.
 
+## Day 50: 11 July 2020
+
+Progress: finished my tictactoe game!
+
+Thoughts: I wasn't able to apply the pubsub function for this project but I'll try to apply it in the next project because I'm still figuring it out. For the meantime I know that my code could improve a lot more in temrs of how clean it is, the flow and the overall design.
+
+link: https://liampc.github.io/ticTacToe/
