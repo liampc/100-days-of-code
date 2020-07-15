@@ -316,3 +316,30 @@ Progress: finished my tictactoe game!
 Thoughts: I wasn't able to apply the pubsub function for this project but I'll try to apply it in the next project because I'm still figuring it out. For the meantime I know that my code could improve a lot more in temrs of how clean it is, the flow and the overall design.
 
 link: https://liampc.github.io/ticTacToe/
+
+
+## Day 51: 12 July 2020
+
+Progress: Study about subpub pattern 
+ 
+Thoughts: finally understood this pattern. I wasnt able to apply it in my tictactoe project because it deals with more advance concepts like import and export which will be tackled the upcoming lessons
+
+## Day 52: 13 July 2020
+
+Progeress: study about classes, tried to convert my library project into class pattern 
+
+Thoughts: Had a hard time trying to convert into a class pattern because I still dont completely understand all the concepts of class and the syntax to connect the functions that I already made.
+
+## Day 53: 14 July 2020
+
+Progress: studdy about classes
+
+Thoughts: I am having a hard time studying about classes. There are a lot of syntax that you can use but I find it difficult to internalize the concepts since it was said that these classes are not really recommended using. Especially since I already enjoyed doing Functional programming over this pattern. Nevertheless I just tried to understand the concepts.
+
+## Day 54: 12 July 2020
+
+Progress: learn about npm, webpack, ES6 modules, start Resto-page project
+
+Thoughts: flooded with info learnign and setting up npm and webpack. There are a lot of new practices that must be done in setting up your work. I unserstood the concepts now but I am still memorizing the process.
+
+
