@@ -336,10 +336,18 @@ Progress: studdy about classes
 
 Thoughts: I am having a hard time studying about classes. There are a lot of syntax that you can use but I find it difficult to internalize the concepts since it was said that these classes are not really recommended using. Especially since I already enjoyed doing Functional programming over this pattern. Nevertheless I just tried to understand the concepts.
 
-## Day 54: 12 July 2020
+## Day 54: 15 July 2020
 
 Progress: learn about npm, webpack, ES6 modules, start Resto-page project
 
 Thoughts: flooded with info learnign and setting up npm and webpack. There are a lot of new practices that must be done in setting up your work. I unserstood the concepts now but I am still memorizing the process.
+
+
+## Day 55: 16 July 2020 
+
+Progress: worked ony my resto project, add homepage, menu page, and part of contact page
+
+Thoughts: really enjoyed this day, spent most of the day coding. I dont really find it difficult to do a project and learn concepts on the way compared to reading long articles. Today, I realized that I am making a habit of writing down a pseudocode before coding, even on creating small functions. I was surprised on how relatively fast I was able to check my todos. Hopefully tomorrow I can finish this project smoothly, or just in a way that I dont have to restart just like my previous projects.
+
 
 
