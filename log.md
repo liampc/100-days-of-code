@@ -350,4 +350,16 @@ Progress: worked ony my resto project, add homepage, menu page, and part of cont
 Thoughts: really enjoyed this day, spent most of the day coding. I dont really find it difficult to do a project and learn concepts on the way compared to reading long articles. Today, I realized that I am making a habit of writing down a pseudocode before coding, even on creating small functions. I was surprised on how relatively fast I was able to check my todos. Hopefully tomorrow I can finish this project smoothly, or just in a way that I dont have to restart just like my previous projects.
 
 
+## Day 56: 17 July 2020
 
+Progress: finished restaurant project!
+
+Thoughts: really surprised on how I relatively faster  i become when it comes to finishing my projects. In a span of 10 days, I already finished 2 Odin projects. I feel good because I really enjoyed the process and how rare for me to get frustrated while I'm doing it. I think writing down my tasks, even the mini ones really helped. I also noticed how I encountered less problems in my workflow using git. 
+
+
+## Day 57: 18 July 2020
+
+Progress: learnt about OOP SOLID principles, do FCC, add local Storage in library project
+
+Thoughts: find it quite difficult to read articles and codes to study about OOP principles, instead watch a youtube tutorial about it. I really need to retrain myself to read long codes and articles, my attention span is getting shorter!
+Also asked a question on Odin discord, I used to avoid using discord as much as possible but I know I have to improve my soft skills if I really want to be part of this industry.
