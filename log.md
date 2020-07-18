@@ -313,7 +313,6 @@ Thoughts: watch video about modular JS, still cant figure out how to use and app
 
 Progress: finished my tictactoe game!
 
-<<<<<<< HEAD
 Thoughts: I wasn't able to apply the pubsub function for this project but I'll try to apply it in the next project because I'm still figuring it out. For the meantime I know that my code could improve a lot more in temrs of how clean it is, the flow and the overall design.
 
 link: https://liampc.github.io/ticTacToe/
@@ -364,8 +363,3 @@ Progress: learnt about OOP SOLID principles, do FCC, add local Storage in librar
 
 Thoughts: find it quite difficult to read articles and codes to study about OOP principles, instead watch a youtube tutorial about it. I really need to retrain myself to read long codes and articles, my attention span is getting shorter!
 Also asked a question on Odin discord, I used to avoid using discord as much as possible but I know I have to improve my soft skills if I really want to be part of this industry.
-=======
-Thoughts: I wasn't able to apply the pubsub function for this project but I'll try to apply it in the project because I'm still figuring it out. For the meantime I know that my code could improve a lot more in temrs of how clean it is, the flow and the overall design.
-
-link: https://liampc.github.io/ticTacToe/
->>>>>>> 082ecc0c16a4491e32d080f7960780e1bf1e697a
