@@ -363,3 +363,11 @@ Progress: learnt about OOP SOLID principles, do FCC, add local Storage in librar
 
 Thoughts: find it quite difficult to read articles and codes to study about OOP principles, instead watch a youtube tutorial about it. I really need to retrain myself to read long codes and articles, my attention span is getting shorter!
 Also asked a question on Odin discord, I used to avoid using discord as much as possible but I know I have to improve my soft skills if I really want to be part of this industry.
+
+
+## Day 58: 19 July 2020
+
+Progress: Start on To-do list project
+
+Thoughts: I spent most of today working on CSS, I want to learn Boostrap but I'm not really sure how that works with the webpack and eveything. I made everyhting through scratch. I dont want to hate CSS but I cant wait to use frameworks or learn about other tools that will help when it comes to UX.
+
