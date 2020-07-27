@@ -371,3 +371,23 @@ Progress: Start on To-do list project
 
 Thoughts: I spent most of today working on CSS, I want to learn Boostrap but I'm not really sure how that works with the webpack and eveything. I made everyhting through scratch. I dont want to hate CSS but I cant wait to use frameworks or learn about other tools that will help when it comes to UX.
 
+
+## Day 59 - 63: 20 July - 24 July 2020
+
+Progress: Working on my Todo List project 
+
+Thoughts: Day 6 since I started doing the project, so far it is working but I'm not completely satisfied how I organized my code. Although I was not doing any repetitive code, I dont know if my flow is readable for other people. After finishing the main functions I'll try to ask for someone to review it because the next project is about frameworks and I want to correct the bad habits that I already have. 
+
+## Day 64: July 25 2020
+
+Progress: work on adding localstorage on my todo list, fix minor bugs
+
+Thoughts: had a problem on showing my data, cant stringify object. I'm afraid if ever my way of creating objects from factory functions might be wrong
+
+## Day 65: July 27 2020
+
+Progress: finally able to save data to localstorage, fix bugs
+
+Thougths: My code currently is kind of messy, I know that I can still make it more organize, especially on the event handlers. Currently, I am making sure that all functions and its eventlisteners are working ok. As of now, I just want to celebrate for making it functional.
+
+
