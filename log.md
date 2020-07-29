@@ -396,3 +396,10 @@ Thougths: My code currently is kind of messy, I know that I can still make it mo
 Progress: practice css creating navbar, study fundamentals of web apps
 
 Thoughts: was not that productive yesterday due, was curious about Full Stack open, read the first part about fundamentals of web apps. I understood the lesson but the following ones are too advance for me. I thought I was able to change curriculum, but decided to finish at least the whole javascript section in The Odin Project. 
+
+
+## Day 67: July 29 2020
+
+Progress: watched CS50 lesson, do image slider mini project
+
+Thoughts: learnt about concept of memory pointers in CS, practice CSS, setting up of project by installing npm packages by creating an image slider. Still having a difficult time doing CSS, its easy to make it work but difficult for me to make it look good. Already have an idea how to create the JS, will try to apply it tomorrow.
