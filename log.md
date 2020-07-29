@@ -391,3 +391,8 @@ Progress: finally able to save data to localstorage, fix bugs
 Thougths: My code currently is kind of messy, I know that I can still make it more organize, especially on the event handlers. Currently, I am making sure that all functions and its eventlisteners are working ok. As of now, I just want to celebrate for making it functional.
 
 
+## Day 66: July 28, 2020
+
+Progress: practice css creating navbar, study fundamentals of web apps
+
+Thoughts: was not that productive yesterday due, was curious about Full Stack open, read the first part about fundamentals of web apps. I understood the lesson but the following ones are too advance for me. I thought I was able to change curriculum, but decided to finish at least the whole javascript section in The Odin Project. 
