@@ -404,8 +404,14 @@ Progress: watched CS50 lesson, do image slider mini project
 
 Thoughts: learnt about concept of memory pointers in CS, practice CSS, setting up of project by installing npm packages by creating an image slider. Still having a difficult time doing CSS, its easy to make it work but difficult for me to make it look good. Already have an idea how to create the JS, will try to apply it tomorrow.
 
-## Day 68-69: July 30-31
+## Day 68-70: July 30 - Aug 1 2020
 
 Progress: Introduction to frameworks
 
-Thoughts: Learn more about different frameworks. Kind of conflicted between react and vue because vue looks a lot more fun and organized but the limited job postings made me decide to study react, and since it is easier to understand vue, I can just study about it if needed or if I want to. I am getting less and less motivated to do Odin project and was thinking of doing the Fullstack open curriculum since it is more focused on MERN stack, with an aim of creating SPAs.
+Thoughts: Not tht productive between these days. Learn more about different frameworks. Kind of conflicted between react and vue because vue looks a lot more fun and organized but the limited job postings made me decide to study react, and since it is easier to understand vue, I can just study about it if needed or if I want to. I am getting less and less motivated to do Odin project and was thinking of doing the Fullstack open curriculum since it is more focused on MERN stack, with an aim of creating SPAs.
+
+## Day 71: Aug 3, 2020
+
+Progress: Do fullstack part0
+
+Thoughts: Decided to do Fullstack open curriculum yesterday. I still not sure but I just want to find out if I like doing this curriculum more than Odin project. I think the different approach in learning could be beneficial for me because I struggle when it comes to reading/learning new concepts but no trouble in doing projects. I think this course is good for forcing me to grasp concepts rather than just doing the projects, which i tend to do in Odin Project
