@@ -403,3 +403,9 @@ Thoughts: was not that productive yesterday due, was curious about Full Stack op
 Progress: watched CS50 lesson, do image slider mini project
 
 Thoughts: learnt about concept of memory pointers in CS, practice CSS, setting up of project by installing npm packages by creating an image slider. Still having a difficult time doing CSS, its easy to make it work but difficult for me to make it look good. Already have an idea how to create the JS, will try to apply it tomorrow.
+
+## Day 68-69: July 30-31
+
+Progress: Introduction to frameworks
+
+Thoughts: Learn more about different frameworks. Kind of conflicted between react and vue because vue looks a lot more fun and organized but the limited job postings made me decide to study react, and since it is easier to understand vue, I can just study about it if needed or if I want to. I am getting less and less motivated to do Odin project and was thinking of doing the Fullstack open curriculum since it is more focused on MERN stack, with an aim of creating SPAs.
