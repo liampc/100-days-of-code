@@ -404,14 +404,28 @@ Progress: watched CS50 lesson, do image slider mini project
 
 Thoughts: learnt about concept of memory pointers in CS, practice CSS, setting up of project by installing npm packages by creating an image slider. Still having a difficult time doing CSS, its easy to make it work but difficult for me to make it look good. Already have an idea how to create the JS, will try to apply it tomorrow.
 
-## Day 68-70: July 30 - Aug 1 2020
+## Day 68-69: July 30 - Aug 1 2020
 
 Progress: Introduction to frameworks
 
 Thoughts: Not tht productive between these days. Learn more about different frameworks. Kind of conflicted between react and vue because vue looks a lot more fun and organized but the limited job postings made me decide to study react, and since it is easier to understand vue, I can just study about it if needed or if I want to. I am getting less and less motivated to do Odin project and was thinking of doing the Fullstack open curriculum since it is more focused on MERN stack, with an aim of creating SPAs.
 
-## Day 71: Aug 3, 2020
+## Day 70: Aug 3, 2020
 
 Progress: Do fullstack part0
 
 Thoughts: Decided to do Fullstack open curriculum yesterday. I still not sure but I just want to find out if I like doing this curriculum more than Odin project. I think the different approach in learning could be beneficial for me because I struggle when it comes to reading/learning new concepts but no trouble in doing projects. I think this course is good for forcing me to grasp concepts rather than just doing the projects, which i tend to do in Odin Project
+
+## Day 71 - 72: Aug 4 - Aug 5 2020
+
+Progress: Do fullstack part 1, do react tutorial 
+
+Thoughts: dabbled in fullstack open, but still had my doubts regarding my trajectory in general. I want to learn python but there are a lot of people saying that node.js is much better in web dev. Anyway, I decided to try python just because I want to, and decided to continue following TOP. I am also conflicted because I think I am interested in data but I know that studying it is different from webdev and most likely need a degree. Decided to learn python while doing TOP since it doesnt hurt to know a programming language, not just a node.js which isnt
+
+## Day 73: Aug 6 2020
+
+Progress: finished tictactoe react tutorial, practice python
+
+Thoughts: Still confused with the workflow in using react, I feel like you have to go up and down, across your components to make it work. Although the process, surprisingly is quite similar to mine, I think vue is more organized but I still want to learn React. Practicing python is fun because it is more straightforward and neat. I think I'm going to try to learn the book so that I could find a job that uses python like web scraping, data mining to see whether I like doing it.
+
+
