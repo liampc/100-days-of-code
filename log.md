@@ -498,3 +498,16 @@ Write small python programs to practice writing to file, using exceptions, handl
 
 ## Day 100: 
 Finished #100DaysOfCode! Today I learned about writing tests for functions and classes with python unittest module and using matplotlib for data visualization. Will be back for round 2 after finalizing what to do next 
+
+
+
+# Round 2 
+
+## Day 1: Sept 9, 2020
+
+Today I practice creating test programs for functions nad classes in crash course python. In between I practiced python syntax by following "Learn Python the Hard Way" exercises. I also started the data viz project and use the matplotlib by making simple line graph
+
+
+## Day 2: Sept 10, 2020
+
+Today, I continued with the learning about data viz. I learned how to plot points, change the attributes of the graph, labels, colors. I also learned how to generate random walks to generate random graph of points. 
