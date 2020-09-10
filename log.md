@@ -429,3 +429,72 @@ Progress: finished tictactoe react tutorial, practice python
 Thoughts: Still confused with the workflow in using react, I feel like you have to go up and down, across your components to make it work. Although the process, surprisingly is quite similar to mine, I think vue is more organized but I still want to learn React. Practicing python is fun because it is more straightforward and neat. I think I'm going to try to learn the book so that I could find a job that uses python like web scraping, data mining to see whether I like doing it.
 
 
+## Day 73: 
+
+finish a react tutorial. Still figuring out the process of using "this", state, and how to pass data using props. Also, learn python because it's so fun 
+
+## Day 74: 
+
+Follow another react tutorial. Practice by recreating my old library project using React
+
+
+## Day 75:
+Practice styling CSS of my library project using react. Learnt about opening csv files using python. 
+
+## Day 76: 
+learn and practice about destructuring, handling events, states, and hooks in React
+
+## Day 77: 
+still practicing react. Learn and practice how to use useState function with multiple states, getting more used to the process of creating components, handling events. 
+
+## Day 78 -79 : 
+practice react by creating a simple feedback counter and random anecdote generator 
+
+
+## Day 80 - 81: 
+still practicing react. Having a hard time displaying data within nested object. Study python and do coding challenges in between 
+
+
+## Day 82 - 83: 
+focused more on python. Review data types, python syntax, turtle module in "How to think like a computer scientist" interactive book. Set up python dev environment and do coding challenges
+
+## Day 84 - 85: 
+More python, study/review  python loops, unit testing, functions using turtle module. Do coding challenges in hackerrank
+
+## Day 86 - 87: 
+Finished part 7-8 of How to think like a computer scientist. Practice python syntax, iterations, and learned about manipulating images. Syntax is quite similar to JS but I'm learning more about practices and techniques in problem-solving 
+
+## Day 88-89:
+Practice python by manipulating images, practice python string methods, learn new algorithms and sequence, do coding challenges in HackerRank
+
+## Day 90: 
+study python strings and lists methods, do exercises in "How to think like a CP scientist", do coding challenges in hackerrank
+
+## Day 91: 
+Learn python lists methods, learn and practice using regex, do coding challenge in hackerrank
+
+## Day 92: 
+Finished part 10 of How to think like a CP scientist, learned about tuples, practice list methods and do coding challenge
+
+## Day 93: 
+Finished part 11 and 12 of How to think like a CP scientist which is about handling files and dictionaries. Do coding challenges in hackerrank.
+
+## Day 94-95:
+ Study about recursion, and practice it in edabit, learn about python classes and objects
+
+## Day 96:
+ Study and practice more about classes, do small python programs, and finished How to think like a CP scientist Grinning face with smiling eyes
+
+
+## Day 97: 
+Study and use BeautifulSoup for the first time, learn how to parse HTML and navigating trees, practice using regex, learn about lambda expressions 
+
+
+## Day 98: 
+practice python by working with json, excel, csv and pdf files, practice regex, and do coding challenges in edabit
+
+## Day 99: 
+Write small python programs to practice writing to file, using exceptions, handling multiple files, and storing data. 
+
+## Day 100: 
+Finished #100DaysOfCode! Today I learned about writing tests for functions and classes with python unittest module and using matplotlib for data visualization. Will be back for round 2 after finalizing what to do next 
