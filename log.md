@@ -511,3 +511,21 @@ Today I practice creating test programs for functions nad classes in crash cours
 ## Day 2: Sept 10, 2020
 
 Today, I continued with the learning about data viz. I learned how to plot points, change the attributes of the graph, labels, colors. I also learned how to generate random walks to generate random graph of points. 
+
+## Day 3: Sept 11, 2020
+
+Today, I was able to practice using pygal charts and matplotlib. I followed a tutorial on displaying interactive data using pygal by simulating a rolling dice and its frequencies. Get more comfortable in creating classes.
+
+## Day 4: Sept 12, 2020
+practice downloading and using data in csv and json format. Used matplotlib to plot multiple data sets, learned how to make line graphs with direct comparisons
+
+
+
+## Day 5: Sept 13, 2020
+Learned how to use pygal in creating world map figure, practice opening and using json files. The book the im following is outdated, I practiced debugging and solving problems on my own by googling it haha
+
+
+
+## Day 6: Sept 12, 2020
+
+Learned how to setup virtual environment in python, learned how to start a django project, use model module by creating class, introduced to a database and how to migrate it. 
