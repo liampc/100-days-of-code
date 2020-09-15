@@ -526,6 +526,10 @@ Learned how to use pygal in creating world map figure, practice opening and usin
 
 
 
-## Day 6: Sept 12, 2020
+## Day 6: Sept 14, 2020
 
-Learned how to setup virtual environment in python, learned how to start a django project, use model module by creating class, introduced to a database and how to migrate it. 
+Learned how to setup virtual environment in python, learned how to start a django project, use model module by creating class, introduced to a database and how to migrate it.  Yesterday I started following the webdev tutorial in Crash Course Python, I think really enjoyed dealing with data and databases while trying out django, I got excited learning again. 
+
+## Day 7: Sept 15, 2020
+
+I Decided to try CS50 web programming by Harvard, since compared to the book, it explains the foundations and the reasons for doing the steps needed in creating web apps. Today, I practiced using HTML and CSS, learned how to use bootstrap and SASS. Really made the designing faster and less frustrating for me. So far I liked the pace of it, hopefully I would not find it too difficult in the next lessons.
