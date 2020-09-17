@@ -533,3 +533,13 @@ Learned how to setup virtual environment in python, learned how to start a djang
 ## Day 7: Sept 15, 2020
 
 I Decided to try CS50 web programming by Harvard, since compared to the book, it explains the foundations and the reasons for doing the steps needed in creating web apps. Today, I practiced using HTML and CSS, learned how to use bootstrap and SASS. Really made the designing faster and less frustrating for me. So far I liked the pace of it, hopefully I would not find it too difficult in the next lessons.
+
+## Day 8: Sept 16, 2020 
+
+Spent the day doing the project for HTML and CSS. Practice using flex and grid. I still cant make my css more organized, I end up doing things repeatedly. Use sass but I not sure I was able to maximize it, especially with the use of variables.
+
+
+## Day 9: Sept 17: 2020
+
+Finished the HTML and CSS part of project 0. Learned about get method and how name in inputs affects the action of the button. Introduction to django, create new project with different apps, learned how to render html files, link css files, and use logic such as conditionals in displaying code in html. 
+
