@@ -539,7 +539,18 @@ I Decided to try CS50 web programming by Harvard, since compared to the book, it
 Spent the day doing the project for HTML and CSS. Practice using flex and grid. I still cant make my css more organized, I end up doing things repeatedly. Use sass but I not sure I was able to maximize it, especially with the use of variables.
 
 
-## Day 9: Sept 17: 2020
+## Day 9: Sept 17, 2020
 
 Finished the HTML and CSS part of project 0. Learned about get method and how name in inputs affects the action of the button. Introduction to django, create new project with different apps, learned how to render html files, link css files, and use logic such as conditionals in displaying code in html. 
+
+
+## Day 10: Sept 21, 2020
+
+Working on my django project from CS50 web programming. Still getting used to the basic syntax and writing system of django. Was able to work on displayign simple views.
+
+## Day 11: Sept 22, 2020
+
+Still working on django project, got confused on how to display url with parameters, took almost a day to find the right question and answer in google. Was able to display pages and make a simple form for search bar.Still figuring out how to filter search results. 
+
+
 
