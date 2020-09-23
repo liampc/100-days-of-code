@@ -552,5 +552,10 @@ Working on my django project from CS50 web programming. Still getting used to th
 
 Still working on django project, got confused on how to display url with parameters, took almost a day to find the right question and answer in google. Was able to display pages and make a simple form for search bar.Still figuring out how to filter search results. 
 
+## Day 12: Sept 23, 2020
+
+Working on my django project, there are a lot of things I need to learn to solve this project, reading documentation is a great practice instead of always relying on video tutorials. Today I was able to finish one of the task in which I have to add a new entry in the wiki. Tried to solve the search results with regex and still figuring out how to add value in the textarea in updating entries.
+
+
 
 
