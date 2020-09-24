@@ -556,6 +556,11 @@ Still working on django project, got confused on how to display url with paramet
 
 Working on my django project, there are a lot of things I need to learn to solve this project, reading documentation is a great practice instead of always relying on video tutorials. Today I was able to finish one of the task in which I have to add a new entry in the wiki. Tried to solve the search results with regex and still figuring out how to add value in the textarea in updating entries.
 
+## Day 13: Sept 24, 2020
+
+Finished all my tasks / specification in my django project. I still need to rewrite some of the code and fix hopefully minor bugs, and add style to the pages. One of the biggest achievement for this day is that I was able to fix the search form and apply regex in my function. 
+
+
 
 
 
