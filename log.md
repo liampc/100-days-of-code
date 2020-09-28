@@ -561,6 +561,11 @@ Working on my django project, there are a lot of things I need to learn to solve
 Finished all my tasks / specification in my django project. I still need to rewrite some of the code and fix hopefully minor bugs, and add style to the pages. One of the biggest achievement for this day is that I was able to fix the search form and apply regex in my function. 
 
 
+### RESTART OF 100DaysOfCode
+
+## Day 1: Sept 28, 2020
+
+Today, I watched and code along the lesson 4 on cs50 web programming about sql models and migrations. I am getting more familliar with the Model/View/Template system of django. Today I learned how to create models, have an idea how sql works, how to authenticate users and how to make login and logout forms. 
 
 
 
