@@ -568,4 +568,8 @@ Finished all my tasks / specification in my django project. I still need to rewr
 Today, I watched and code along the lesson 4 on cs50 web programming about sql models and migrations. I am getting more familliar with the Model/View/Template system of django. Today I learned how to create models, have an idea how sql works, how to authenticate users and how to make login and logout forms. 
 
 
+## Day 2: Sept 29, 2020
+
+Today I worked on my 3rd project. Still having a hard time how to make models and how to create relationship between models. I also tried to insert image but I still cant unserstand how MEDIA_ROOT and URL works. I was able to display the basic info aside from images of the listings but I still dont know how to relate to other models. 
+
 
