@@ -573,3 +573,11 @@ Today, I watched and code along the lesson 4 on cs50 web programming about sql m
 Today I worked on my 3rd project. Still having a hard time how to make models and how to create relationship between models. I also tried to insert image but I still cant unserstand how MEDIA_ROOT and URL works. I was able to display the basic info aside from images of the listings but I still dont know how to relate to other models. 
 
 
+## Day 3: Sept 30, 2020
+
+Still figuring out the relationships of models. The hard thing about django is that the system are tightly connected to each other, the code might work but might not work properly in rendering.
+
+
+## Day 4: Oct 1, 2020
+
+Was able to finally make the relationship between two of my models. I was able to render the info into the page. Learned how to access the user from the created User model and access the current user logged in. Learned how to create new models in the shell and in the views.py by reading the Django documentation.
