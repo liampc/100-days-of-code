@@ -581,3 +581,12 @@ Still figuring out the relationships of models. The hard thing about django is t
 ## Day 4: Oct 1, 2020
 
 Was able to finally make the relationship between two of my models. I was able to render the info into the page. Learned how to access the user from the created User model and access the current user logged in. Learned how to create new models in the shell and in the views.py by reading the Django documentation.
+
+
+Restart of 100DaysOfCode
+
+## Day 1: Oct 5, 2020
+
+Today, Im still working on my django project, I still have problem when it comes to creating forms with variable attributes. Still quite having a hard time following the django docs tutorial. I'm getting more comfortable in creating models and using ForeignKey relationship and using its related name to access data. 
+
+
