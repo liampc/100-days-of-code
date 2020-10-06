@@ -589,4 +589,8 @@ Restart of 100DaysOfCode
 
 Today, Im still working on my django project, I still have problem when it comes to creating forms with variable attributes. Still quite having a hard time following the django docs tutorial. I'm getting more comfortable in creating models and using ForeignKey relationship and using its related name to access data. 
 
+## Day 2: Oct 6, 2020
+
+Today, I followed a django tutorial from a book. I am still learning how to make class-based views. I practiced how to push branches of an existing project in github. Finished simple django app and getting more comfortable with the Model, View, Template system.
+
 
