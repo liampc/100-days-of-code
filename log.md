@@ -593,4 +593,8 @@ Today, Im still working on my django project, I still have problem when it comes
 
 Today, I followed a django tutorial from a book. I am still learning how to make class-based views. I practiced how to push branches of an existing project in github. Finished simple django app and getting more comfortable with the Model, View, Template system.
 
+## Day 3: Oct 7, 2020
+
+Today, I followed the django tutorial. Practiced using class based views. Also practice and differentiate the use of pipenv and env. Deployed a simple django app in heroku for the first time. Read Effective python. Learned about writing cleaner  python code in terms of its style, learned about unicode and str, learned about splitting lists and listing assignment.
+
 
