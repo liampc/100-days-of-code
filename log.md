@@ -597,4 +597,6 @@ Today, I followed a django tutorial from a book. I am still learning how to make
 
 Today, I followed the django tutorial. Practiced using class based views. Also practice and differentiate the use of pipenv and env. Deployed a simple django app in heroku for the first time. Read Effective python. Learned about writing cleaner  python code in terms of its style, learned about unicode and str, learned about splitting lists and listing assignment.
 
+## Day 4: Oct 8, 2020
 
+Today, did not study that much, still working on django tutorial on making a simple blog. Learned how to use static files such as css, learned how to use generic views in django such as detailView and CreateView that will display objects easier and create forms faster. Also watched a little about using vue with django, plan a little bit about the attendance project that I want to create as soon as I finished the django book tutorial.
