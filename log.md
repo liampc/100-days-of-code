@@ -600,3 +600,7 @@ Today, I followed the django tutorial. Practiced using class based views. Also p
 ## Day 4: Oct 8, 2020
 
 Today, did not study that much, still working on django tutorial on making a simple blog. Learned how to use static files such as css, learned how to use generic views in django such as detailView and CreateView that will display objects easier and create forms faster. Also watched a little about using vue with django, plan a little bit about the attendance project that I want to create as soon as I finished the django book tutorial.
+
+## Day 5: Oct 9, 2020
+
+Learned how to use django's built in user authentication, create login and logout features, learned new way of writing tests and how to check if redirecting pages works, learned new generic views for updating or deleting pages. Understood why creating SPAs or Single Page Applications are widely encouraged. 
