@@ -561,7 +561,7 @@ Working on my django project, there are a lot of things I need to learn to solve
 Finished all my tasks / specification in my django project. I still need to rewrite some of the code and fix hopefully minor bugs, and add style to the pages. One of the biggest achievement for this day is that I was able to fix the search form and apply regex in my function. 
 
 
-### RESTART OF 100DaysOfCode
+### RESTART OF 100DaysOfCode Round 2 (1st try)
 
 ## Day 1: Sept 28, 2020
 
@@ -583,7 +583,7 @@ Still figuring out the relationships of models. The hard thing about django is t
 Was able to finally make the relationship between two of my models. I was able to render the info into the page. Learned how to access the user from the created User model and access the current user logged in. Learned how to create new models in the shell and in the views.py by reading the Django documentation.
 
 
-Restart of 100DaysOfCode
+### Restart of 100DaysOfCode Round 2 (2nd try)
 
 ## Day 1: Oct 5, 2020
 
