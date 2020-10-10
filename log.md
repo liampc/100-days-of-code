@@ -604,3 +604,7 @@ Today, did not study that much, still working on django tutorial on making a sim
 ## Day 5: Oct 9, 2020
 
 Learned how to use django's built in user authentication, create login and logout features, learned new way of writing tests and how to check if redirecting pages works, learned new generic views for updating or deleting pages. Understood why creating SPAs or Single Page Applications are widely encouraged. 
+
+## Day 6: Oct 10, 2020
+
+Spent most of the day practicing and fixing the error when I was deploying my blog app to heroku today. Practiced using pipenv, create a sign up forms using django's built in forms. Learned how to set up configurations for static files.
