@@ -608,3 +608,8 @@ Learned how to use django's built in user authentication, create login and logou
 ## Day 6: Oct 10, 2020
 
 Spent most of the day practicing and fixing the error when I was deploying my blog app to heroku today. Practiced using pipenv, create a sign up forms using django's built in forms. Learned how to set up configurations for static files.
+
+## Day 7: Oct 12, 2020
+
+Today, I watched the javascript lesson in cs50. It serves a good reviewer of JS. It also tackled APIs. Learned how to fetch APIs and learned about promises in JS. 
+
