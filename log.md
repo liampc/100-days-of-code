@@ -613,3 +613,7 @@ Spent most of the day practicing and fixing the error when I was deploying my bl
 
 Today, I watched the javascript lesson in cs50. It serves a good reviewer of JS. It also tackled APIs. Learned how to fetch APIs and learned about promises in JS. 
 
+## Day 8: Oct 13, 2020
+
+Today, not so productive. I tried to do my third project about js today but I can't seem to understand how to proceed with the project just using html and js. My mistake is that the project should be done after watching 2 video lessons. I feel a little frustrated earlier because I feel like I'm lacking something and I dont know what. Tomorrow I'll finish the lesson and see if I can finally understood how to do the project.
+
