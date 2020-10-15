@@ -617,3 +617,7 @@ Today, I watched the javascript lesson in cs50. It serves a good reviewer of JS.
 
 Today, not so productive. I tried to do my third project about js today but I can't seem to understand how to proceed with the project just using html and js. My mistake is that the project should be done after watching 2 video lessons. I feel a little frustrated earlier because I feel like I'm lacking something and I dont know what. Tomorrow I'll finish the lesson and see if I can finally understood how to do the project.
 
+
+## Day 9: Oct 14, 2020
+
+Was not able to do coding yesterday. Today I finally understood how to use JS with django in dealing with Single Page app. I learned how to create and access own API. I was also able to add features in my attendance project, and practice using class based views in django.
