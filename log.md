@@ -621,3 +621,8 @@ Today, not so productive. I tried to do my third project about js today but I ca
 ## Day 9: Oct 14, 2020
 
 Was not able to do coding yesterday. Today I finally understood how to use JS with django in dealing with Single Page app. I learned how to create and access own API. I was also able to add features in my attendance project, and practice using class based views in django.
+
+
+## Day 10, 11, 12: Oct 15,16,17
+
+Forgot to do log. These past few days, I followed the django tutorial. I learned how to create custom user model, how to do user authentication and apply bootstrap into my django project. Also practice how to create tests. There are a lot of details I feel like I should memeorize but for not I'm just familiarizing myself on the stuffs that I can do with Django and use the book as a reference to do it. Also add features on my attendance project such as updating and deleting persons.
