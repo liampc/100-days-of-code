@@ -626,3 +626,7 @@ Was not able to do coding yesterday. Today I finally understood how to use JS wi
 ## Day 10, 11, 12: Oct 15,16,17
 
 Forgot to do log. These past few days, I followed the django tutorial. I learned how to create custom user model, how to do user authentication and apply bootstrap into my django project. Also practice how to create tests. There are a lot of details I feel like I should memeorize but for not I'm just familiarizing myself on the stuffs that I can do with Django and use the book as a reference to do it. Also add features on my attendance project such as updating and deleting persons.
+
+## Day 13: Oct 19
+
+Watch video about python and programming in general in freecodecamp, tried to solve algorithm problem using JS in FCC, follow tutorial resettin password in django, add a detail page view, add simple tests and tried using bootstrap in my attendance project.
