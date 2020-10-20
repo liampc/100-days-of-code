@@ -630,3 +630,8 @@ Forgot to do log. These past few days, I followed the django tutorial. I learned
 ## Day 13: Oct 19
 
 Watch video about python and programming in general in freecodecamp, tried to solve algorithm problem using JS in FCC, follow tutorial resettin password in django, add a detail page view, add simple tests and tried using bootstrap in my attendance project.
+
+## Day 14: Oct 20, 2020
+
+Tried to follow django on sending email whne you reset a password using send grid but I cant understand the send grid itself when it comes to creating the sender profile. Also tried applying bootstrap in my newspaper project. Watched ch50 video about testing and learned about github actions, docker. Added some tests in my newspaper project.
+
