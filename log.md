@@ -635,3 +635,6 @@ Watch video about python and programming in general in freecodecamp, tried to so
 
 Tried to follow django on sending email whne you reset a password using send grid but I cant understand the send grid itself when it comes to creating the sender profile. Also tried applying bootstrap in my newspaper project. Watched ch50 video about testing and learned about github actions, docker. Added some tests in my newspaper project.
 
+## Day 15 : Oct 21, 2020
+
+Today, I was able to do the sending of email using gmail instead of sendgrid by following a tutorial. Add projects and links in my attendance project, got comfortable creating models practice manytomany field. Follow a tutorial on creating tables in django using django_tables2. I thought I will be able to use this app as a substitute for creating attendance table using Javascript but it wasnt that interactive. 
