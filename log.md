@@ -638,3 +638,7 @@ Tried to follow django on sending email whne you reset a password using send gri
 ## Day 15 : Oct 21, 2020
 
 Today, I was able to do the sending of email using gmail instead of sendgrid by following a tutorial. Add projects and links in my attendance project, got comfortable creating models practice manytomany field. Follow a tutorial on creating tables in django using django_tables2. I thought I will be able to use this app as a substitute for creating attendance table using Javascript but it wasnt that interactive. 
+
+## Day 16: Oct 22, 2020
+
+Today is not a productive day, I keep rethinking about my current track again. I keep getting distracted on the stuff I keep reading/seeing that I should do. I want to do my attendance project but it greatly depends on using JS so now I'm wondering what should I prioritize in studying between vue.js or django rest apis.
