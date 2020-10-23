@@ -642,3 +642,7 @@ Today, I was able to do the sending of email using gmail instead of sendgrid by 
 ## Day 16: Oct 22, 2020
 
 Today is not a productive day, I keep rethinking about my current track again. I keep getting distracted on the stuff I keep reading/seeing that I should do. I want to do my attendance project but it greatly depends on using JS so now I'm wondering what should I prioritize in studying between vue.js or django rest apis.
+
+## Day 17 : Oct 23, 2020
+
+FInally add bootstrap on my attendance project, was able to apply simple webpage layout and add a simple table for the list of persons. 
