@@ -646,3 +646,7 @@ Today is not a productive day, I keep rethinking about my current track again. I
 ## Day 17 : Oct 23, 2020
 
 FInally add bootstrap on my attendance project, was able to apply simple webpage layout and add a simple table for the list of persons. 
+
+## Day 18: Oct 26, 2020
+
+Add basic pages for newspaper app. Practice MVT system in django. Do a hackerrank challenge regarding list comprehensions.
