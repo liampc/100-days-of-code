@@ -650,3 +650,7 @@ FInally add bootstrap on my attendance project, was able to apply simple webpage
 ## Day 18: Oct 26, 2020
 
 Add basic pages for newspaper app. Practice MVT system in django. Do a hackerrank challenge regarding list comprehensions.
+
+## Day 19, 20: Oct 28, 29 2020
+
+Follow tutorial on django apis, was able to learn how to create and display apis. Practice creating and modifying user accounts in my attendance project. Do a section of practical python, practice solving python challenges. 
