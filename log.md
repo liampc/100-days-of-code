@@ -654,3 +654,7 @@ Add basic pages for newspaper app. Practice MVT system in django. Do a hackerran
 ## Day 19, 20: Oct 28, 29 2020
 
 Follow tutorial on django apis, was able to learn how to create and display apis. Practice creating and modifying user accounts in my attendance project. Do a section of practical python, practice solving python challenges. 
+
+## Day 21,22: Oct 31, 2020
+
+Not so productive these past 2 days. Yesterday, we went out to buy groceries and wasnt able to follow my routine. Today, I tried to follow the video tutorial on how to deploy django app to heroku, I wasnt able to finish it because my app is different from the tutorial but I learned today more about the step by stpe process without using pipenv. 
