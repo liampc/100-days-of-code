@@ -658,3 +658,7 @@ Follow tutorial on django apis, was able to learn how to create and display apis
 ## Day 21,22: Oct 31, 2020
 
 Not so productive these past 2 days. Yesterday, we went out to buy groceries and wasnt able to follow my routine. Today, I tried to follow the video tutorial on how to deploy django app to heroku, I wasnt able to finish it because my app is different from the tutorial but I learned today more about the step by stpe process without using pipenv. 
+
+## Day 23: Nov 2, 2020
+
+Tried to add vue on my django project using the cdn method but did not push through because it seems llike I will have a problem scaling up later. Worked on my attendance project, add models for my backend and created apis. Still figuring out how to arrange all the details for my models. I am having a hard time linking the models from each other to show time in/out of a person and its corresponding dates.
