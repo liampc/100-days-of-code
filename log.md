@@ -666,3 +666,7 @@ Tried to add vue on my django project using the cdn method but did not push thro
 ## Day 24: Nov 3, 2020
 
 Had a lot of troubles while making models in django. I'm still getting used to creating models and linking their relationships. I also had problems when it comes to editing the models and migrating it, to the point that I had to delete the database, and its created migrations. 
+
+## Day 25: Nov 5, 2020
+
+Watched a tutorial on vue, was able to start and incorporate using api in a very simple way. Also finished doing the models for my attendance project, althought I'm not very sure if it the final models. I was also able to display these models in APIs using django rest. Still figuring out how to make a dynamic table and save the data to django.
