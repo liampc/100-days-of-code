@@ -670,3 +670,7 @@ Had a lot of troubles while making models in django. I'm still getting used to c
 ## Day 25: Nov 5, 2020
 
 Watched a tutorial on vue, was able to start and incorporate using api in a very simple way. Also finished doing the models for my attendance project, althought I'm not very sure if it the final models. I was also able to display these models in APIs using django rest. Still figuring out how to make a dynamic table and save the data to django.
+
+## Day 26: Nov 6, 2020
+
+Finally was able to deploy a django app to heroku, I followed a tutorial on youtube and was able to understand more or less what is going on and what is needed to be done to deploy an app. Also tried using vue, I was able to display some components but I still got confused dealing with props and using it in a component within a component. Also
